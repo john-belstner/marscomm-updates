@@ -1,5 +1,5 @@
 {
   "format": "marscomm-update-v1",
-  "manifest": "{\"product\":\"MARSComm\",\"version\":\"4.0.0\",\"installerUrl\":\"https://marscomm.rgn9mars.com/installers/MARSComm4.0.0_Update_Installer.exe\",\"installerSize\":5770306,\"installerSha256\":\"ef070ea3d5efefc1cd22c63b868a0cd254f650cd65c774418b5ff91e8b21f390\",\"published\":\"2026-10-16\",\"notes\":\"Import your NGT cipher keys after updating: Settings tab, Cipher Keys.\"}",
-  "signature": "Q9kDNrsh1gpzFrtMlBQryZrb2FFMum1/9yRbiZYauHotzL/qM/SusXHq0UF6X80ll4aB8XNpKJWDrnVZe0MtDA=="
+  "manifest": "{\"product\":\"MARSComm\",\"version\":\"4.0.1\",\"installerUrl\":\"https://marscomm.rgn9mars.com/installers/MARSComm4.0.1_Update_Installer.exe\",\"installerSize\":5773053,\"installerSha256\":\"2a360ae4a186a74437d0708b44d82e414928df04e9625f494e5da7be78be817d\",\"published\":\"2026-10-17\",\"notes\":\"Fixes lost messages from MS-DMT; white USMTF entry boxes.\"}",
+  "signature": "8nueUZ0kP0P7Gg2H2Z7kdW6O7rekmkaEODFxpY7REw8xQHDg3pER48jMI2MULAu1FIF47C9R/13SNkow+pk2Aw=="
 }

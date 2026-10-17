@@ -23,3 +23,28 @@ Description: MARS digital message handler
  Each user's settings, databases, cipher keys and logs are kept in
  ~/.local/share/MARSComm.
 
+Package: marscomm
+Architecture: amd64
+Version: 4.0.1
+Priority: optional
+Section: hamradio
+Maintainer: John Belstner <jbelstner@gmail.com>
+Installed-Size: 3992
+Depends: libqt5sql5-sqlite, libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt5core5t64 (>= 5.15.1), libqt5gui5t64 (>= 5.11.0~rc1) | libqt5gui5-gles (>= 5.11.0~rc1), libqt5network5t64 (>= 5.15.1), libqt5serialport5 (>= 5.6.0), libqt5sql5t64 (>= 5.0.2), libqt5widgets5t64 (>= 5.15.1), libqt5xml5t64 (>= 5.0.2), libssl3t64 (>= 3.0.0), libstdc++6 (>= 13.1), zlib1g (>= 1:1.1.4)
+Filename: pool/main/marscomm_4.0.1_amd64.deb
+Size: 2539556
+MD5sum: d99c35ff468a4dd83b0c66475bd0a408
+SHA1: da5b6103d39a99ea7cf3094bce4f04af456401ba
+SHA256: f69de27d4a4c0d74c692892de3e97bef20a28acf8268105af8f8bfc2af5ff3af
+SHA512: bf0a41e162b7598dc862bbf8b11e9170c65f223354e7181a1acd8018cf3d40845be0633972737295a60d8eca9638040126e45813fd6245764fc7a608e4015c87
+Homepage: https://marscomm.rgn9mars.com
+Description: MARS digital message handler
+ MARSComm sends, receives and stores MARS digital messages through serial
+ and network modems, MS-DMT and the AN/PRC-160.  It builds USMTF messages from
+ the standard MessageCreator templates, handles ACP 127 and 16L addressing,
+ net strips, chat and orderwire, and encrypts traffic with the
+ NGT-compatible MSC cipher.
+ .
+ Each user's settings, databases, cipher keys and logs are kept in
+ ~/.local/share/MARSComm.
+
