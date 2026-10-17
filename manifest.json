@@ -1,0 +1,5 @@
+{
+  "format": "marscomm-update-v1",
+  "manifest": "{\"product\":\"MARSComm\",\"version\":\"3.65.1\",\"installerUrl\":\"https://marscomm.rgn9mars.com/installers/MARSComm3.65.1_Update_Installer.exe\",\"installerSize\":5771529,\"installerSha256\":\"4980439019d6f68256d9507b6f477833da776358294cec7b52c2817b908efa22\",\"published\":\"2026-10-16\",\"notes\":\"Test of automatic updates.\"}",
+  "signature": "7HjB5365WPda2VE9U4y8hKDTypjA5TbYuKuZgEwViWC0AXQeXc64dqGFgs4KMsbQkvEWvZ2it1inU57ng8SACw=="
+}
