@@ -1,5 +1,5 @@
 {
   "format": "marscomm-update-v1",
-  "manifest": "{\"product\":\"MARSComm\",\"version\":\"4.0.1\",\"installerUrl\":\"https://marscomm.rgn9mars.com/installers/MARSComm4.0.1_Update_Installer.exe\",\"installerSize\":5773053,\"installerSha256\":\"2a360ae4a186a74437d0708b44d82e414928df04e9625f494e5da7be78be817d\",\"published\":\"2026-10-17\",\"notes\":\"Fixes lost messages from MS-DMT; white USMTF entry boxes.\"}",
-  "signature": "8nueUZ0kP0P7Gg2H2Z7kdW6O7rekmkaEODFxpY7REw8xQHDg3pER48jMI2MULAu1FIF47C9R/13SNkow+pk2Aw=="
+  "manifest": "{\"product\":\"MARSComm\",\"version\":\"4.0.2\",\"installerUrl\":\"https://marscomm.rgn9mars.com/installers/MARSComm4.0.2_Update_Installer.exe\",\"installerSize\":5717295,\"installerSha256\":\"22a6e22cb1cd5781b3ee691940f6eaf28eb928482612cd21e6277901cefd3479\",\"published\":\"2026-10-17\",\"notes\":\"Decodes replies from message machines such as AAM9S.\"}",
+  "signature": "j3l46AU7/Gj7hrIt2CHfvEx/2oogz1PJqojMiZQQOEaBZxWIusRlVmjm1IjOnU0/a4iTW97kc9zqoifPhxD9BA=="
 }
