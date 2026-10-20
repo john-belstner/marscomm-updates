@@ -1,5 +1,5 @@
 {
   "format": "marscomm-update-v1",
-  "manifest": "{\"product\":\"MARSComm\",\"version\":\"4.0.2\",\"installerUrl\":\"https://marscomm.rgn9mars.com/installers/MARSComm4.0.2_Update_Installer.exe\",\"installerSize\":5717295,\"installerSha256\":\"22a6e22cb1cd5781b3ee691940f6eaf28eb928482612cd21e6277901cefd3479\",\"published\":\"2026-10-17\",\"notes\":\"Decodes replies from message machines such as AAM9S.\"}",
-  "signature": "j3l46AU7/Gj7hrIt2CHfvEx/2oogz1PJqojMiZQQOEaBZxWIusRlVmjm1IjOnU0/a4iTW97kc9zqoifPhxD9BA=="
+  "manifest": "{\"product\":\"MARSComm\",\"version\":\"4.0.3\",\"installerUrl\":\"https://marscomm.rgn9mars.com/installers/MARSComm4.0.3_Update_Installer.exe\",\"installerSize\":4472333,\"installerSha256\":\"aac899ff5acf80abd1ae3ae5ff7db887cf01c21421b05f6ccf38abb67682f0c7\",\"published\":\"2026-10-20\",\"notes\":\"New User Guide under Help > User Guide.\"}",
+  "signature": "MjyZPFmRQ3tNEsFMe7P33xZH57AqF6P5QxfxyTh+O4vVMT++6jl31/7GnAtT+A7vtJNGjCc2Oke0hG2SQbtfDw=="
 }
