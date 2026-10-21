@@ -98,3 +98,31 @@ Description: MARS digital message handler
  Each user's settings, databases, cipher keys and logs are kept in
  ~/.local/share/MARSComm.
 
+Package: ms-dmt
+Architecture: amd64
+Version: 3.3.0
+Priority: optional
+Section: hamradio
+Maintainer: John Belstner <jbelstner@gmail.com>
+Installed-Size: 1193
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt6core6 (>= 6.4.0), libqt6gui6 (>= 6.1.2), libqt6multimedia6 (>= 6.2.1), libqt6network6 (>= 6.1.2), libqt6serialport6 (>= 6.2.1), libqt6widgets6 (>= 6.1.2), libstdc++6 (>= 11)
+Filename: pool/main/ms-dmt_3.3.0_amd64.deb
+Size: 643396
+MD5sum: 4e95e1bd899306dd128cba0815ef8465
+SHA1: d277e108faab507eb122ae7d60c54c075dc49415
+SHA256: 60ea14cb2c0843b31abf182e30bb63e5b777cc2f1edc2e49ce0da6fb43d47215
+SHA512: ee7dd4a32aa2738ab3fd7a49277b304e3311ee075cb4c019484002166ea68a9a0048f1777aec89c0b81c72c6c3c786135c31156f6bfefa93fb6689861bd0b78b
+Homepage: https://github.com/john-belstner/MS-DMT_v3.00_Qt6_Win_Linux
+Description: MIL-STD-110A Digital Modem Terminal
+ MS-DMT (Multi-Speed Data Modem Terminal) is a Qt6-based cross-platform
+ application for digital radio communications using MIL-STD-110A modem
+ protocols.
+ .
+ Features include:
+  - Multiple data rates: 75-4800 bps
+  - Multiple interleaving modes (Short/Long/Variable)
+  - TCP/IP control interface for external applications
+  - Serial port radio control (PTT/CAT)
+  - Constellation display for signal quality visualization
+  - Support for 40+ radio transceivers
+
