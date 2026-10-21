@@ -1,0 +1,5 @@
+{
+  "format": "marscomm-update-v1",
+  "manifest": "{\"product\":\"MS-DMT\",\"version\":\"3.3.0\",\"installerUrl\":\"https://marscomm.rgn9mars.com/msdmt/installers/MS-DMT_3.3.0_Update.exe\",\"installerSize\":4483389,\"installerSha256\":\"77d7556d05acaaa87f0e58599aff8e59561ae8c6b869604fcb6c7e0db5e5f4c8\",\"published\":\"2026-10-20\",\"notes\":\"Adds About > Check for Updates, and an HTML User Guide under Help.\"}",
+  "signature": "vgFr5vKPltZ1UPqE6G6tdEyLUebaffRh5Rcq62e1J8MQeMly2TXT43WSgWC6jx/nzYpBr/T3AJ8UN4jtpFz4BA=="
+}
