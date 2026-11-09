@@ -1,5 +1,5 @@
 {
   "format": "marscomm-update-v1",
-  "manifest": "{\"product\":\"MARSComm\",\"version\":\"4.0.3\",\"installerUrl\":\"https://marscomm.rgn9mars.com/installers/MARSComm4.0.3_Update_Installer.exe\",\"installerSize\":4472333,\"installerSha256\":\"aac899ff5acf80abd1ae3ae5ff7db887cf01c21421b05f6ccf38abb67682f0c7\",\"published\":\"2026-10-20\",\"notes\":\"New User Guide under Help > User Guide.\"}",
-  "signature": "MjyZPFmRQ3tNEsFMe7P33xZH57AqF6P5QxfxyTh+O4vVMT++6jl31/7GnAtT+A7vtJNGjCc2Oke0hG2SQbtfDw=="
+  "manifest": "{\"product\":\"MARSComm\",\"version\":\"4.0.4\",\"installerUrl\":\"https://marscomm.rgn9mars.com/installers/MARSComm4.0.4_Update_Installer.exe\",\"installerSize\":4474892,\"installerSha256\":\"5fd809b562872fbf85accb0c8fb947b2f9a89788b0575bd313a6f75fd4e81665\",\"published\":\"2026-11-09\",\"notes\":\"Decodes long messages behind leftover modem bytes; new RI (Standard) template.\"}",
+  "signature": "1rEhPKJmcSu+sQXKpX2fqLuJwqGume0gNpTWbkTYqW1AgGnfRwBH8XqcYXJ/q+R5uBHL0jpYx2aptOskXCGLDQ=="
 }
