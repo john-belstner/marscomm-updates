@@ -160,11 +160,11 @@ Maintainer: John Belstner <jbelstner@gmail.com>
 Installed-Size: 1194
 Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt6core6 (>= 6.4.0), libqt6gui6 (>= 6.1.2), libqt6multimedia6 (>= 6.2.1), libqt6network6 (>= 6.1.2), libqt6serialport6 (>= 6.2.1), libqt6widgets6 (>= 6.1.2), libstdc++6 (>= 11)
 Filename: pool/main/ms-dmt_3.3.1_amd64.deb
-Size: 643896
-MD5sum: 8239fe5184971b039e0ce2afeb698258
-SHA1: 17461febe161fb57a32c09383d7f26f2cc8c8527
-SHA256: fae7c9a7a5dd25b68e836f136318df20e66ac499391627d57746b6b13dbc3d8b
-SHA512: 61c2696cf46106a22593b1b372b9c6cdf7a49e186caa1e6c8755bf1b6bf654010b8bed679ad68ef1260a65057e4c526f06827ef9e5871ae2bc1e48dc9bca8573
+Size: 644452
+MD5sum: 4dcc96ba97baa17afd717b00156fff09
+SHA1: 20275839f58311d3069c85caa7da731b0a75e6af
+SHA256: 230bfc42b47ee3ed733ffb61389f1f70924aebb271e045b4f400a3885a787c5e
+SHA512: df0f66560d41ff76654ac09d12a7afc1c58c22248bec548eac937acf109ba4ae14b4f73b633311c886d0f9d308a33f6e739f4e1aeff1a8264d7677b0842175c5
 Homepage: https://github.com/john-belstner/MS-DMT_v3.00_Qt6_Win_Linux
 Description: MIL-STD-110A Digital Modem Terminal
  MS-DMT (Multi-Speed Data Modem Terminal) is a Qt6-based cross-platform
