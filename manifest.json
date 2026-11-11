@@ -1,5 +1,5 @@
 {
   "format": "marscomm-update-v1",
-  "manifest": "{\"product\":\"MARSComm\",\"version\":\"4.0.4\",\"installerUrl\":\"https://marscomm.rgn9mars.com/installers/MARSComm4.0.4_Update_Installer.exe\",\"installerSize\":4474892,\"installerSha256\":\"5fd809b562872fbf85accb0c8fb947b2f9a89788b0575bd313a6f75fd4e81665\",\"published\":\"2026-11-09\",\"notes\":\"Decodes long messages behind leftover modem bytes; new RI (Standard) template.\"}",
-  "signature": "1rEhPKJmcSu+sQXKpX2fqLuJwqGume0gNpTWbkTYqW1AgGnfRwBH8XqcYXJ/q+R5uBHL0jpYx2aptOskXCGLDQ=="
+  "manifest": "{\"product\":\"MARSComm\",\"version\":\"4.0.5\",\"installerUrl\":\"https://marscomm.rgn9mars.com/installers/MARSComm4.0.5_Update_Installer.exe\",\"installerSize\":4475298,\"installerSha256\":\"4a654a9f46062e9acc821339c23fa72ea7b2929f8e93a0590e035636e27578cc\",\"published\":\"2026-11-11\",\"notes\":\"User Guide: where to get cipher keys and address books.\"}",
+  "signature": "8ehi66OJ6/8y4/D2fddu02J97w8OpGhuhtcOFsiAuDeVEh2oAeMyScFpP2eazW04wESM03x2obj1dNvSDtmXBQ=="
 }
