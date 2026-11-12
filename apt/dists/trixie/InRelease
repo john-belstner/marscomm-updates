@@ -4,38 +4,38 @@ Hash: SHA512
 Architectures: amd64 arm64
 Codename: trixie
 Components: main
-Date: Wed, 11 Nov 2026 21:36:41 +0000
+Date: Thu, 12 Nov 2026 03:01:02 +0000
 Label: MARSComm
 Origin: MARSComm
 Suite: trixie
 MD5Sum:
- 5bdb13830b0ed13070d3d046f344f859             2364 Release
- 9d2c761db016b004f07838e33dd95770            10928 main/binary-amd64/Packages
- 167d07604e4b17a54f3c91f13b342b5b             2621 main/binary-amd64/Packages.gz
+ af3446b114055461d414fbd0750579bf             2364 Release
+ 4f311bdbc8ec6a8960194f17afd77cc1            12246 main/binary-amd64/Packages
+ 7ed781a1ebaf7791484bc32ac5aeda47             2813 main/binary-amd64/Packages.gz
  1b5972dae50739167ee7077998e12772             8292 main/binary-arm64/Packages
  103ca59031f20ae1d371b165597650f9             1841 main/binary-arm64/Packages.gz
 SHA1:
- 9a2cee887fd2e66aa7151b70497cd0a0b1447933             2364 Release
- 213654cd00ab50056af010be36b7b3307596b223            10928 main/binary-amd64/Packages
- f2e10f118353d4a861e907c206d66e9c0c070d7c             2621 main/binary-amd64/Packages.gz
+ 48289391950c3765db13d88cca2534cd637c7b96             2364 Release
+ 8547528af7a61e91b7d8b0074a6dd77beea23780            12246 main/binary-amd64/Packages
+ c185db2c4106d799907a9a6deeef6b0158374104             2813 main/binary-amd64/Packages.gz
  da04b2b8c6f3e067bdc590ec512c6045d5369d6b             8292 main/binary-arm64/Packages
  2059480bac048410108a5fcbce0cc3937e1a88a0             1841 main/binary-arm64/Packages.gz
 SHA256:
- 0cfb9aa29732a8f8742cfd6e8f853ec678ab745c898ca653f280d89ae40cdc3d             2364 Release
- baea96f3f70d0b918a6cfb0dbba26fb597daa56bea26bad7a539bef25b80d05b            10928 main/binary-amd64/Packages
- c942e3ca44b3d5eadc8f54c13521993abb7e8f875c9b3cd03aa35f80f87aebbe             2621 main/binary-amd64/Packages.gz
+ 2237c19aa63e1b2a9aeef356523cc920f9ad38b9f95d0411b7fab0507ab84e1c             2364 Release
+ 28e6f90e2ec0de07393b0ba39d060bc64b23af56e88c15a704060779facb5f41            12246 main/binary-amd64/Packages
+ ef320e4731a9168c7f610078d3f7725e73d383f61f49286e26d265b6950c854c             2813 main/binary-amd64/Packages.gz
  6528307913de1cffb351330e46e6fde49147bae8410751bcf82c63269ef65844             8292 main/binary-arm64/Packages
  aac9d5d879677c227b994ff2d8c1416c7079ae2936ed1566dc670d894217fa94             1841 main/binary-arm64/Packages.gz
 SHA512:
- d4079250843eac8ee8169ccc947cd9545f79804180a1f57fa43b442cf7a9b20cdaa0064cefb88ba3beb62173ea3d2ad0ac9fd6a1a77f4f2a78779450d2bd061d             2364 Release
- bde65e26979cb33106b18b66ce7003edff1121765accf746bc6cdf3ebc800dbdf86b1020c4d295d15ac4845a23479e150ff4934966f7ab76ce47d479dd4a829c            10928 main/binary-amd64/Packages
- 0e6860b683519c119d6bbe726fce0b78717dbb7770192050345d1201af170c8899abe1339affeee30fe01bab7c4da51708952b85c0b787a47171176619abbc88             2621 main/binary-amd64/Packages.gz
+ d9a95bfd350fec5173275fd574bdd2b004cc288e5639bdafbc24d6ce76022d257231de2d82df960eeec74fe75d7551a413f3a89071aefe6dff030779e386aad8             2364 Release
+ 05e8aaa9bd5d34795506cd0549ab27feb5054691e0a280cb905461e97f67fa4d1ec449eb7fa82415464cc67e222010f44c0dd5a06a6add53a66ff6381972dd89            12246 main/binary-amd64/Packages
+ 4c314d832fdc9396ddf1ca6745f874e034a0b457befcb1c42f9ce3990c92a3e25cf3c454f60e37094d5d3afb96751dc9ea9cc8213647f180ba24c12289db32f8             2813 main/binary-amd64/Packages.gz
  987727cde1f01a08ef8c1f88ae3b061012033b9c3502ff3561a41b73a50da2ee8ef0588cebab53dfff876b5231213709f9e054bd4c0f2a85de1d62b9888d5287             8292 main/binary-arm64/Packages
  9e7b5f18040836b23e0886ca9b8d13eebea103007fe48566e9b8b4397d71c9439353d9e73c73c2f0f3401242288f45208fc36613ee9911ee7fb9f531090636e9             1841 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQRBd5qA18Y/FnaGQmlFmg2+ooaOCgUCavTf6QAKCRBFmg2+ooaO
-CnSJAP49ZdAvJw/DtKkuN/mN1LK+BjBiVaMqj+Epin3IYfIX8gEAkQDvIQpNYX7A
-hAHQ8wl+oFePv8Qt/EsS16BESooS2Qw=
-=AMip
+iHUEARYKAB0WIQRBd5qA18Y/FnaGQmlFmg2+ooaOCgUCavUr7gAKCRBFmg2+ooaO
+CrvfAQCJ7TLuD5Kweig2MA2teMgBzqA7oz2CutFGi2Y6vNQ0WAD/VkeXVLIQ7UiC
+IrbIE3f34a8hqM+nzN+lkYw3YtKetw8=
+=tmGZ
 -----END PGP SIGNATURE-----

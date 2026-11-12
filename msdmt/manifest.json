@@ -1,5 +1,5 @@
 {
   "format": "marscomm-update-v1",
-  "manifest": "{\"product\":\"MS-DMT\",\"version\":\"3.3.1\",\"installerUrl\":\"https://marscomm.rgn9mars.com/msdmt/installers/MS-DMT_3.3.1_Update.exe\",\"installerSize\":4433351,\"installerSha256\":\"952b1cc0b2f3fc0ebc6bbb9e37d71d180333d42531475fdbb0aef0330d215a54\",\"published\":\"2026-11-09\",\"notes\":\"Fixes a crash on exit when a control program is connected.\"}",
-  "signature": "2Ob2v8PXXs9IMoWISgwFiEZWPwnRxQBa5t+kvYFY81MYHFU/Y7MbhFlv/8+Kt9CxeUVM3CQ4PjU6XINC2sdADQ=="
+  "manifest": "{\"product\":\"MS-DMT\",\"version\":\"3.3.2\",\"installerUrl\":\"https://marscomm.rgn9mars.com/msdmt/installers/MS-DMT_3.3.2_Update.exe\",\"installerSize\":4433544,\"installerSha256\":\"2a89204f839acaf894299d199c4588d30a871ffd3d1c490216309f5f3bcb1cff\",\"published\":\"2026-11-11\",\"notes\":\"Text is readable again in Dark mode on Windows 11 and Linux.\"}",
+  "signature": "LBRbVxzuc3BvHGUTGC856URhv9czLUlqlAP51YjpJJQ2NKVIwW+OabDxFBhieIo6jdJLAwa0PFFCjmxoEL1ODw=="
 }
