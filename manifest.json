@@ -1,5 +1,5 @@
 {
   "format": "marscomm-update-v1",
-  "manifest": "{\"product\":\"MARSComm\",\"version\":\"4.0.5\",\"installerUrl\":\"https://marscomm.rgn9mars.com/installers/MARSComm4.0.5_Update_Installer.exe\",\"installerSize\":4475298,\"installerSha256\":\"4a654a9f46062e9acc821339c23fa72ea7b2929f8e93a0590e035636e27578cc\",\"published\":\"2026-11-11\",\"notes\":\"User Guide: where to get cipher keys and address books.\"}",
-  "signature": "8ehi66OJ6/8y4/D2fddu02J97w8OpGhuhtcOFsiAuDeVEh2oAeMyScFpP2eazW04wESM03x2obj1dNvSDtmXBQ=="
+  "manifest": "{\"product\":\"MARSComm\",\"version\":\"4.0.6\",\"installerUrl\":\"https://marscomm.rgn9mars.com/installers/MARSComm4.0.6_Update_Installer.exe\",\"installerSize\":4455643,\"installerSha256\":\"e653c6f6a140464546e9e777c8910efa27d03b23aec6bfca524cea1e49f1312e\",\"published\":\"2026-11-18\",\"notes\":\"Update screenshot in User Guide and flush old message templates.\"}",
+  "signature": "al4e4Svt/NC6fTkGMLxUp1iZdDsjNtwS5V/rIgD5Kb96upXmiVNIj+VIJgSG4oX76NC2ZYmQLxdg6HofrQhQDA=="
 }
