@@ -257,3 +257,31 @@ Description: MIL-STD-110A Digital Modem Terminal
   - Constellation display for signal quality visualization
   - Support for 40+ radio transceivers
 
+Package: ms-dmt
+Architecture: amd64
+Version: 3.3.3
+Priority: optional
+Section: hamradio
+Maintainer: John Belstner <jbelstner@gmail.com>
+Installed-Size: 1194
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt6core6 (>= 6.4.0), libqt6gui6 (>= 6.1.2), libqt6multimedia6 (>= 6.2.1), libqt6network6 (>= 6.1.2), libqt6serialport6 (>= 6.2.1), libqt6widgets6 (>= 6.1.2), libstdc++6 (>= 11)
+Filename: pool/main/ms-dmt_3.3.3_amd64.deb
+Size: 645992
+MD5sum: 7ec1fd8b7ad5b556d36461b917320948
+SHA1: 73b93734f669716aa26d5e888ef5ed4dd6bc0f8c
+SHA256: 8f0d44bf944a11e72ff17801bef1505a76fc02f793ab7d47d4203a9edb4734c1
+SHA512: 02c28b1b3cd8236f31039a60ccedcbcd2bf3935049ce4dbf6bcc1744e613a1d9377c00c72d1ee8174cde6e6d4a1d64ef3e484a7472bab239a8b80358ffb58c33
+Homepage: https://github.com/john-belstner/MS-DMT_v3.00_Qt6_Win_Linux
+Description: MIL-STD-110A Digital Modem Terminal
+ MS-DMT (Multi-Speed Data Modem Terminal) is a Qt6-based cross-platform
+ application for digital radio communications using MIL-STD-110A modem
+ protocols.
+ .
+ Features include:
+  - Multiple data rates: 75-4800 bps
+  - Multiple interleaving modes (Short/Long/Variable)
+  - TCP/IP control interface for external applications
+  - Serial port radio control (PTT/CAT)
+  - Constellation display for signal quality visualization
+  - Support for 40+ radio transceivers
+

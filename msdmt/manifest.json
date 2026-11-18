@@ -1,5 +1,5 @@
 {
   "format": "marscomm-update-v1",
-  "manifest": "{\"product\":\"MS-DMT\",\"version\":\"3.3.2\",\"installerUrl\":\"https://marscomm.rgn9mars.com/msdmt/installers/MS-DMT_3.3.2_Update.exe\",\"installerSize\":4433544,\"installerSha256\":\"2a89204f839acaf894299d199c4588d30a871ffd3d1c490216309f5f3bcb1cff\",\"published\":\"2026-11-11\",\"notes\":\"Text is readable again in Dark mode on Windows 11 and Linux.\"}",
-  "signature": "LBRbVxzuc3BvHGUTGC856URhv9czLUlqlAP51YjpJJQ2NKVIwW+OabDxFBhieIo6jdJLAwa0PFFCjmxoEL1ODw=="
+  "manifest": "{\"product\":\"MS-DMT\",\"version\":\"3.3.3\",\"installerUrl\":\"https://marscomm.rgn9mars.com/msdmt/installers/MS-DMT_3.3.3_Update.exe\",\"installerSize\":4489808,\"installerSha256\":\"6a28670f66cc434ad32ab96a4d782be9bd9d0a1d4dd7067814cb12525a061dc7\",\"published\":\"2026-11-18\",\"notes\":\"The sound card list no longer closes behind repeated error boxes when the sound card is missing.\"}",
+  "signature": "EETR9P72eUgy7ONX2QPDSekdaai5zLT82n8RArtzSz7CI/1vCmtrg1+B+Lj4Nqg6RxvAZtv0p8ZGpsfYDID6DQ=="
 }
